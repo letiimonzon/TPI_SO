@@ -4,7 +4,7 @@ El objetivo de esta práctica consiste en la implementación de un simulador que
 
 ### Pre-requisitos 📋
 
-_Se necesita descargar el archivo "input.txt" para la carga de los procesos.
+Se necesita descargar el archivo "input.txt" para la carga de los procesos.
 
 ## Autores ✒️
 
