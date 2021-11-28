@@ -108,7 +108,7 @@ public class SistemaOperativo {
 	}
 
 	/**
-	 * Criterio de expropiación: https://github.com/pabloing93/tpi-so-g1/blob/f7188c6592860e28913a1061295848fe375e0f26/Criterio%20de%20expropiaci%C3%B3n.jpeg
+	 * Criterio de expropiación: https://github.com/letiimonzon/TPI_SO/blob/28f90690019bfd4f2bc2c68e6e04cf78b68189d9/Criterio%20de%20expropiaci%C3%B3n.jpeg
 	 */
 	public void VerificarCpuListos() {
 		if (listoSuspendido.size() > 0) {
