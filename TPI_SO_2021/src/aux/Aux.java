@@ -23,7 +23,7 @@ public class Aux {
 		try {
 			Aux.pathOut = file.getAbsolutePath();
 			Scanner myReader = new Scanner(file);
-			while (myReader.hasNextLine()) {
+			while (myReader.hasNextLine() && procesos.size()<10) {
 				String l = myReader.nextLine();
 				if (!l.startsWith("#")) {
 					String[] arrayL = l.split(",");
