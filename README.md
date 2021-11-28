@@ -57,6 +57,8 @@ Estado de las particiones de memorias, las colas listo, Listo y suspendido y la 
 En el mismo directorio donde se encuentra el archivo de entrada guardará un archivo de salida con los resultados del programa.
 ![Captura de pantalla de 2021-11-28 18-37-03](https://user-images.githubusercontent.com/21130494/143786982-26767a11-188f-4a09-8ed7-5bbb2114c50d.png)
 
+#  Link del video:
+https://youtu.be/eBXCYRjL56s
 
 ## Autores ✒️
 
